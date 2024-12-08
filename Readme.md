@@ -34,7 +34,7 @@ _Italic_
 
 Python Code
 ```
-    print("Hello Python")
+    print("Hello from Python")
 ```
 
 ![LCO](https://github.com/Saptarshidas131/Saptarshidas131/raw/main/images/coding.png)
